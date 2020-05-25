@@ -6,9 +6,12 @@ After 2 years of trying to conquer the “music + travel” market with GigsGuid
 My main aptitude lies in a narrow gap between technical stuff and product management.
 
 Having vast technical background (mostly in web-related software) and always ongoing product development experience I am a great fit for any position that requires a cross between those. 
-Testing hypothesizes, complete with MVP and after-soft-launch analysis? Check.
-Creating sub-products based on the main one? Check. 
-Evaluating ideas for pivot and probing markets for a better product fit? Check. 
+Testing hypothesizes, complete with MVP and after-soft-launch analysis?  - ✓Check
+Creating sub-products based on the main one?  - ✓Check 
+Evaluating ideas for pivot and probing markets for a better product fit?  - ✓ Check
+Deciding on right software architecture?  - ✓ Check
+Managing development efforts?  - ✓ Check
+
 
 ### On the question of development.
 
