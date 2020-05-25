@@ -8,6 +8,7 @@ My main aptitude lies in a narrow gap between technical stuff and product manage
 Having vast technical background (mostly in web-related software) and always ongoing product development experience I am a great fit for any position that requires a cross between those. 
 
 Testing hypothesizes, complete with MVP and after-soft-launch analysis?  - ✓Check
+
 Creating sub-products based on the main one?  - ✓Check 
 
 Evaluating ideas for pivot and probing markets for a better product fit?  - ✓ Check
