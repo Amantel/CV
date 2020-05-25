@@ -55,4 +55,4 @@ Anything between a full-remote and an office job (note, that that will require r
 Product management, analysis of advertising channels (online, offline), project management, marketing (strategic and tactical), English (TOEFL 100+), work with different teams (in-house, remote and out staffed), interaction between finances, marketing and IT.
 
 #### Tech skills: 
-web development (PHP full stack, NodeJS, React, pure JS), SQL, NoSQL (Mongo), data-extraction, *Nix, Excel, Analytics (Google, Yandex, Similarweb, Alexa), Mobile (Android), Python, Java, IBM Cloud and other products and technologies.
+Web development (PHP full stack, NodeJS, React, pure JS), SQL, NoSQL (Mongo), data-extraction, *Nix, Excel, Analytics (Google, Yandex, Similarweb, Alexa), Mobile (Android), Python, Java, IBM Cloud and other products and technologies.
