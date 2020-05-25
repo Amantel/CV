@@ -1,5 +1,6 @@
 ## Macherkevich Mikhail - CV
 
+On the scale of bearderd back-end developer and uber-manager I am exactly in the middle, combining best from the two worlds. 
 
 After 2 years of trying to conquer the “music + travel” market with GigsGuide startup I am starting to look at the market for new opportunities.
 My main aptitude lies in a narrow gap between technical stuff and product management.
