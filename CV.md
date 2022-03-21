@@ -20,9 +20,11 @@ Managing development efforts?  - ✓ Check
 
 ### On the question of development
 
-I can and love to code (though I never had time to contribute to opensource =(  ). Nevertheless I am always careful when bringing new software to the project, thinking business first, fun - later.  
-Usually I focus on fast results preferring to test something and then letting those amazing devs do their job properly, yet most of the time my code is more then enough for any MVP level project and usually can be used even further.
-Things I value in the code are Development Speed and Readability. Only most significant optimizations are usually on my plate and most of the times - at later stages. 
+I can and love to code (and I even contribute to opensource, from time to time). 
+Nevertheless I am always careful when bringing new software to the project, thinking business first, fun - later.
+Usually I focus on fast results preferring to test something and then letting those amazing devs do their job properly, yet most of the time my code is more then enough for any MVP level project and usually can be used even further. 
+Things I value in the code are Development Speed and Readability. Only most significant optimizations are usually on my plate and most of the times - at later stages. Together with managing in-house our outsource team I can create a web application all by myself. That is something I pride.
+
 Together with managing in-house our outsource team I can create a web application all by myself. That is something I pride. 
 
 ### On the question of product management
