@@ -32,7 +32,7 @@ I am the guy who sets things right. As much as I can, of course.
 
 ### On the question of persona
 
-I am a mildly cheerful guy, happily married with a child. I can't remember a real personal conflict for years, which can say a lot about me - both good and bad. I like games, music and having a walk in good weather. My soft-skill knack, I think, is teaching. I like to teach people when they are interested. I am pretty much self-sufficient, but I really like to work in a team. 
+I am a mildly cheerful guy, divorced, with a child. I can't remember a real personal conflict for years, which can say a lot about me - both good and bad. I like games, music and having a walk in good weather. My soft-skill knack, I think, is teaching. I like to teach people when they are interested. I am pretty much self-sufficient, but I really like to work in a team. 
 
 
 ### A bit about my 'path of the hero'
